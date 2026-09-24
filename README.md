@@ -445,6 +445,12 @@ Colaborador · colega de turma no Técnico em TI do CEFSA
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-correia-476113437)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/correia44)
 
+**Lucas Santana**
+Colaborador · colega de turma no Técnico em TI do CEFSA
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santana-3258812b4)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasSantana34)
+
 ---
 
 <p align="center">Projeto desenvolvido para estudo e portfólio. As músicas externas seguem as licenças de suas respectivas fontes.</p>
