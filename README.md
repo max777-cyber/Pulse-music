@@ -272,7 +272,7 @@ Usado **apenas como cache** e estado temporário, nunca como banco permanente.
 
 ---
 
-## 📨 Kafka
+## Kafka
 
 O Kafka tem uso real: desacoplar a ação do usuário do processamento pesado.
 
