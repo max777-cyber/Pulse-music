@@ -1,4 +1,4 @@
-<h1 align="center">🎧 Pulse Music</h1>
+<h1 align="center"> Pulse Music</h1>
 
 <p align="center">
   <b>Plataforma de streaming de música com identidade e arquitetura próprias</b><br>
